@@ -1,0 +1,5 @@
+{
+	"toggles": {
+		"toggle_2": {{ key "/app/toggle2" }}
+	}
+}
