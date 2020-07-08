@@ -1,6 +1,4 @@
-# basic-backend-app
-
-<img width="814" alt="Screen Shot 2020-06-26 at 11 39 24" src="https://user-images.githubusercontent.com/51725996/85880647-f9fdd100-b7a1-11ea-9d09-ac6a01f44c7d.png">
+# notifications-api
 
 Clone the project
 
